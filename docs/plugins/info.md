@@ -1,8 +1,8 @@
----
+Treetosayoot---
 title: Built-in info plugin
 icon: material/information
----
-
+Yabb---
+This makes it easier for us to fix bugs, 
 # Built-in info plugin
 
 The info plugin is a utility that is solely intended to create self-contained
